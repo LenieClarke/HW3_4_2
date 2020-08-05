@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="showedText">Hallo Welt! Deutsch wurde gewahlt.</string>
+
+    <string-array name="margins">
+        <item>Klein einruckung</item>
+        <item>Median einruckung</item>
+        <item>GroBe einruckung</item>
+    </string-array>
+</resources>
